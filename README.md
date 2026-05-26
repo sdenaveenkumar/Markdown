@@ -2,6 +2,8 @@
 A personal knowledge base for Markdown notes, documentation, and developer writing.
 # Preview
 
+# Preview
+
 <table>
   <tr>
     <td align="center">
