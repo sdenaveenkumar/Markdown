@@ -2,18 +2,22 @@
 A personal knowledge base for Markdown notes, documentation, and developer writing.
 # Preview
 
-# Preview
-
 <table>
-  <tr>
-    <td align="center">
-      <b>Heading Syntax</b><br><br>
-      <img src="./images/heading-preview.png" width="100%" />
-    </td>
+<tr>
+<td align="center">
 
-    <td align="center">
-      <b>Bold & Italic Syntax</b><br><br>
-      <img src="./images/bold-italic-preview.png" width="100%" />
-    </td>
-  </tr>
+### Heading Syntax
+
+<img src="./images/heading-preview.png" width="100%">
+
+</td>
+
+<td align="center">
+
+### Bold & Italic Syntax
+
+<img src="./images/bold-italic-preview.png" width="100%">
+
+</td>
+</tr>
 </table>
